@@ -1,0 +1,14 @@
+/vendor
+/tests
+/storage/*.key
+/node_modules
+.env
+.env.example
+.git
+.gitignore
+.gitattributes
+.editorconfig
+.idea
+.vscode
+README.md
+phpunit.xml

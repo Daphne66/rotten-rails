@@ -1,0 +1,12 @@
+/vendor
+/tests
+/storage/*.key
+.env
+.env.*
+!.env.production
+.git
+.gitignore
+.gitattributes
+.editorconfig
+README.md
+phpunit.xml
